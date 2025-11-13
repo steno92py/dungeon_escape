@@ -987,3 +987,5 @@ Progetto educativo - Libero uso per insegnamento e apprendimento.
 
 **Creato per l'insegnamento di Python e Game Development** 🎮🐍
 **Buon divertimento e buon apprendimento!**
+
+**Stefano Nocco**
